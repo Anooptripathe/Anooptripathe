@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> My name is Anoop Tripathi</h1>
 
-<h2 align="center"> I'm a passionate <b>Software Developer</b> who enjoys building efficient, scalable data pipeline. 
+<h2 align="center"> I'm a passionate <b>Data Engineer</b> who enjoys solving complex data problem and building efficient, scalable data pipeline. 
  </h2>
  <li>Checkout my Top GitHub repositories on <a href = "https://github.com/Anooptripathe/ADF_learning_project.git">Azure DataFactory</a>, <a href = "https://github.com">DSA In Python</a> and <a href = "https://github.com">Flask API Learning</a>.</li>
  
