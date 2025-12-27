@@ -38,6 +38,8 @@
 </div>
 
 <ul>
+  <li>Python</li>
+  <li>SQL</li>
   <li>PySpark</li>
   <li>Data Engineering</li>
   <li>Data Modeling</li>
