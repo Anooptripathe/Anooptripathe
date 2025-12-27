@@ -2,7 +2,7 @@
 
 <h2 align="center"> I'm a passionate <b>Data Engineer</b> who enjoys solving complex data problem and building efficient, scalable data pipeline. 
  </h2>
- <li>Checkout my Top GitHub repositories on <a href = "https://github.com/Anooptripathe/ADF_learning_project.git">Azure DataFactory</a>, <a href = "https://github.com/Anooptripathe/DSA_Python">DSA In Python</a> and <a href = "https://github.com/Anooptripathe/taxi-pipeline-nyc-data">Azure Databricks</a>.</li>
+ <li>Checkout my Top GitHub repositories on <a href = "https://github.com/Anooptripathe/ADF_learning_project.git">Azure DataFactory</a>, <a href = "https://github.com/Anooptripathe/DSA_Python">DSA In Python</a> and <a href = "https://github.com/Anooptripathe/taxi-pipeline-nyc-data">Azure Databricks</a></li>
  
  <!-- Profile Views Counter -->
  <br/>  <!-- This adds two blank lines above -->
